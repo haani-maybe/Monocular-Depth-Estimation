@@ -1,0 +1,15 @@
+# Ignore large, unused model files
+models/depth_model.pkl
+
+# Ignore datasets and generated arrays
+rawImages/
+groundTruths/
+outputs/
+*.npy
+
+# General python ignores
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
