@@ -54,6 +54,6 @@ python src/dipProj.py
 
 ### Collaborators
 This project was developed as a team effort by:
-Zahra Zaheer
-Ayesha Noor
-Haaniah Ismail
+- [Zahra Zaheer](https://github.com/zahra745)
+- [Ayesha Noor](https://github.com/Ayesha-Noor-04)
+- [Haaniah Ismail](https://github.com/haani-maybe)
