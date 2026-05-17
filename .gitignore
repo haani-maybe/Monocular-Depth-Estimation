@@ -13,3 +13,18 @@ __pycache__/
 .venv/
 venv/
 .env
+nyu_depth_v2_labeled.mat
+
+
+# ----- Data & Model assets (kept in repo) -----
+# (keep rawImages, groundTruths, models/*.pkl, requirements.txt)
+
+# ----- Demo / generated files (do NOT commit) -----
+/demo/
+output_images/
+outputs/
+*.log
+*.tmp
+# Windows line‑ending conversion warning 
+*.pyc
+__pycache__/
